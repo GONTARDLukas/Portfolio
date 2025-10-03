@@ -1,0 +1,16 @@
+@import url("colors.css");
+* {
+    padding: 0;
+    margin: 0;
+}
+header {
+    display: flex;
+    height:12.5%;
+}
+.header-div-logo{
+    display: flex;
+}
+.logo {
+    display: flex;
+    border-radius: 25% 50%;
+}
